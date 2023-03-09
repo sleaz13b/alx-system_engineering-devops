@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod -rwxr-xr-- betty 
+chmod ug+x,o+r hello 
